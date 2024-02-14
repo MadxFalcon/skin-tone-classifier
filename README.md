@@ -1,0 +1,1 @@
+A Python project that identifies and extracts skin regions from images using HSV thresholds. The code includes functions for removing black pixels and computing color information based on clustering. Explore this repository to enhance your understanding of skin tone analysis in computer vision applications! 🌟
